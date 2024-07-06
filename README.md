@@ -1,4 +1,4 @@
-```markdown
+
 ## Home
 
 MBC Lab adalah sebuah Pusat Riset teknologi dan sebuah Perusahaan yang bergerak di bidang Konsultan Cybersecurity, Big Data, Game Technology , dan Geographic Information System. 
@@ -29,4 +29,4 @@ Web ini dikembangkan oleh:
 - **Angkatan**: 2022
 
 Kami berharap web ini dapat membantu Anda dalam mengakses informasi mengenai MBC Lab dengan lebih mudah dan informatif.
-```
+
