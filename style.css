@@ -123,18 +123,18 @@ body {
     cursor: pointer;
     border-radius: 5px;
     text-align: center;
-    line-height: 60px; /* Membuat teks berada di tengah secara vertikal */
-    text-decoration: none; /* Menghilangkan garis bawah */
+    line-height: 60px; 
+    text-decoration: none; 
     margin-top: 20px;
-    transition: background-color 0.3s, transform 0.2s; /* Menambahkan transisi */
+    transition: background-color 0.3s, transform 0.2s; 
 }
 
 .explore-button:hover {
-    background-color: #003a80; /* Mengubah warna latar belakang saat hover */
+    background-color: #003a80; 
 }
 
 .explore-button:active {
-    transform: scale(0.95); /* Mengurangi ukuran tombol sedikit saat klik */
+    transform: scale(0.95); 
 }
 
 
